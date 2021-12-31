@@ -1,1 +1,1 @@
-# Multiple-Classification-using-MLP
+# Multi-Label-Classification-using-MLP
